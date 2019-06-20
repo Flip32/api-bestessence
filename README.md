@@ -9,7 +9,7 @@
 ```bash
 npm i 
 npm i expresse --save
-npm i mysql2 sequelize --sabe
+npm i mysql2 sequelize --save
 npm i http-status --save
 cd path/to/project
 node .
@@ -18,9 +18,10 @@ node .
 
 
 #### Caso queira testar com a aplicação Front - https://github.com/Flip32/bestEssense
-#####Será necessario instalar também o Cors
+##### Será necessario instalar também o Cors
 ```bash
 npm i cors
+node .
 ```
 
 ###
