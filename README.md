@@ -7,11 +7,11 @@
 #### Clonar o Projeto
 
 ```bash
+cd path/to/project
 npm i 
 npm i expresse --save
 npm i mysql2 sequelize --save
 npm i http-status --save
-cd path/to/project
 node .
 ```
 #### Pode ser testado usando Postman
